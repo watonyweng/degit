@@ -1,0 +1,2 @@
+# degit
+Straightforward project scaffolding
